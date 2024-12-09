@@ -57,7 +57,7 @@ The main objectives of this project are:
 
 ---
 
-## **Insights & Results**
+## **Insights and Results**
 -
 -
 -
