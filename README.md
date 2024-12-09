@@ -12,7 +12,7 @@
 
 ---
 ## **Project Status**
-- Currently Working on SQL Scripts to extract the Data I want for visualizations.
+- Currently Working on SQL Scripts to extract the data I want for visualizations.
 
 
 ## **Project Overview**
