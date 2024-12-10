@@ -40,8 +40,12 @@ I am assuming the role of a junior data analyst working in the marketing analyst
 - **Source:** [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - **Export Size:** [1.09 GB]
 - **Description:**
-  I will use the Divvy trip data 12/2023 - 11/2024 for this analysis project, combine the 12 CSV's using a python script analyze this data. The name of the combined CSV's is last_12Months.csv. Below is a map of the table that was exported pre data cleaning. 
-    1.	ride_id (String/Integer): Unique identifier for each trip.
+I will use the Divvy trip data 12/2023 - 11/2024 for this analysis project, combine the 12 CSV's using a python script analyze this data. The name of the combined CSV's is last_12Months.csv. Below is a map of the table that was exported pre data cleaning. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
+
+This public dataset provides insight into how different customer types use Cyclistic bikes. However, due to data privacy regulations, riders’ personally identifiable information is excluded. As a result, connecting past purchases to credit card details or determining whether casual riders live within the Cyclistic service area or have made multiple single purchases is not possible.
+
+
+    1.  ride_id (String/Integer): Unique identifier for each trip.
     2.  rideable_type(Text): The type of rental used for the trip.
     3.  start_station_name(Text): The station the equipment was rented from.
     4.  start_station_id(Text): Unique Identifier for the rental station.
