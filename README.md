@@ -37,9 +37,10 @@ I am assuming the role of a junior data analyst working in the marketing analyst
 ---
 
 ## **Dataset Information**
-- **Source:** [Last_12Months.csv](#)
-- **Size:** [1.09 GB]
-- **Description:** 
+- **Source:** [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- **Export Size:** [1.09 GB]
+- **Description:**
+  I will use the Divvy trip data 12/2023 - 11/2024 for this analysis project, combine the 12 CSV's using a python script analyze this data. The name of the combined CSV's is last_12Months.csv. Below is a map of the table that was exported pre data cleaning. 
     1.	ride_id (String/Integer): Unique identifier for each trip.
     2.  rideable_type(Text): The type of rental used for the trip.
     3.  start_station_name(Text): The station the equipment was rented from.
