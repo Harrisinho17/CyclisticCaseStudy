@@ -4,10 +4,10 @@
 1. [Project Status](#project-status)
 2. [Project Overview and Background](#project-overview-and-background)
 3. [Dataset Information](#dataset-information)
-4. [Project Objectives](#project-objectives)
+4. [Objectives](#objectives)
 5. [Technologies Used](#technologies-used)
 6. [Insights and Results](#insights-and-results)
-7. [Contributing](#contributing)
+7. [Inspiration](#inspiration)
 
 
 ---
@@ -61,7 +61,7 @@ This public dataset provides insight into how different customer types use Cycli
 
 ---
 
-## **Project Objectives**
+## **Objectives**
 The main objective of this project is to:
 Devise marketing strategies to convert casual riders to members.
 
@@ -92,8 +92,10 @@ Moreno has assigned me the first question to answer: How do annual members and c
 
 ---
 
-## **Contributing** 
+## **Inspiration** 
 
+- [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- [license](https://divvybikes.com/data-license-agreement)
 - 
 
 
