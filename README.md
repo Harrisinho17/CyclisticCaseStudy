@@ -7,7 +7,7 @@
 4. [Objectives](#objectives)
 5. [Technologies Used](#technologies-used)
 6. [Insights and Results](#insights-and-results)
-7. [Inspiration](#inspiration)
+7. [Considerations](#considerations)
 
 
 ---
@@ -92,11 +92,11 @@ Moreno has assigned me the first question to answer: How do annual members and c
 
 ---
 
-## **Inspiration** 
+## **Considerations** 
 
 - [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - [license](https://divvybikes.com/data-license-agreement)
-- 
+
 
 
 
