@@ -85,11 +85,11 @@ Moreno has assigned me the first question to answer: How do annual members and c
 ---
 
 ## **Insights and Results**
-- ![Alt Text](/Users/aharris/Documents/GitHub/CyclisticCaseStudy/CyclisticRepo/Images/CyclisticUsageData.jpg)
+- ![Cyclistic Usage Data](Images/CyclisticUsageData.jpg)
 - Members used Cyclistic for shorter rides on average but took nearly twice as many rides as casual users, indicating higher overall engagement. Among the three services offered—Classic Bikes, Electric Bikes, and Electric Scooters—Electric Bikes were the most popular. Members primarily used Classic and Electric Bikes, while casual users favored Electric Scooters, which had a smaller sample size.
 - Date analysis revealed Cyclistic usage patterns by hour, weekday, and month. The peak usage hour was 17:00, with over 500,000 rides. Usage was evenly distributed across weekdays, with slightly higher activity on Saturdays. Summer months saw the highest usage, consistent with the fictional Chicago location, where cold winters likely reduce outdoor activity.
 
-- ![Alt Text](/Users/aharris/Documents/GitHub/CyclisticCaseStudy/CyclisticRepo/Images/CyclisticLocationData.jpg)
+- ![Cyclistic Usage Data](Images/CyclisticLocationData.jpg)
 - The geographic data confirms insights from the previous visualization, showing that members covered 64.16% of the total kilometers traveled, using Cyclistic services more frequently and for greater distances. While average distances per service type were similar, casual users traveled farther on Classic Bikes than members, highlighting differing usage patterns. 
 - The density mapping of members revealed a higher concentration of activity around central Chicago, particularly near the business district. In contrast, the density mapping for casual users showed a broader dispersion, with coastal areas emerging as hotspots for usage.
 
