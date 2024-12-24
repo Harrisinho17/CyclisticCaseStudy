@@ -85,10 +85,27 @@ Moreno has assigned me the first question to answer: How do annual members and c
 ---
 
 ## **Insights and Results**
--
--
--
--
+- ![Alt Text](/Users/aharris/Documents/GitHub/CyclisticCaseStudy/CyclisticRepo/Images/CyclisticUsageData.jpg)
+- Members used Cyclistic for shorter rides on average but took nearly twice as many rides as casual users, indicating higher overall engagement. Among the three services offered—Classic Bikes, Electric Bikes, and Electric Scooters—Electric Bikes were the most popular. Members primarily used Classic and Electric Bikes, while casual users favored Electric Scooters, which had a smaller sample size.
+- Date analysis revealed Cyclistic usage patterns by hour, weekday, and month. The peak usage hour was 17:00, with over 500,000 rides. Usage was evenly distributed across weekdays, with slightly higher activity on Saturdays. Summer months saw the highest usage, consistent with the fictional Chicago location, where cold winters likely reduce outdoor activity.
+
+- ![Alt Text](/Users/aharris/Documents/GitHub/CyclisticCaseStudy/CyclisticRepo/Images/CyclisticLocationData.jpg)
+- The geographic data confirms insights from the previous visualization, showing that members covered 64.16% of the total kilometers traveled, using Cyclistic services more frequently and for greater distances. While average distances per service type were similar, casual users traveled farther on Classic Bikes than members, highlighting differing usage patterns. 
+- The density mapping of members revealed a higher concentration of activity around central Chicago, particularly near the business district. In contrast, the density mapping for casual users showed a broader dispersion, with coastal areas emerging as hotspots for usage.
+
+### Results and Recommendations
+
+- **Promote Membership in High-Use Areas**  
+  Leveraging density mapping insights, targeted marketing campaigns can be deployed in areas with high casual user activity, such as coastal zones and recreational areas. Digital and physical promotions at popular docking stations can include membership incentives, highlighting the convenience and cost savings for frequent riders. Additionally, focusing campaigns in business districts emphasizes Cyclistic’s utility for commuting, which appeals to member behaviors.
+
+- **Enhance Electric Scooter Options**  
+  Since Electric Scooters were frequently used by casual riders, introducing scooter-specific memberships can attract this group. Plans tailored to short-distance or leisure riders, combined with expanded scooter availability in casual-heavy areas, could drive conversions. This strategy ensures casual users see value in subscribing while maintaining their preferred mode of transport.
+
+- **Gamify Membership Engagement**  
+  Implementing features like mileage challenges and exclusive events for members can drive casual-to-member conversions. For instance, casual riders could be incentivized with free ride credits for meeting usage milestones, encouraging them to try membership. Hosting community-focused events such as bike tours or workshops adds value to being a member.
+
+- **Educate on Membership Benefits at Docking Stations**  
+  Physical touchpoints like interactive displays at docking stations can educate casual users on the financial and practical benefits of membership. For example, showing real-time cost savings based on their current usage can highlight the value of converting. Having Cyclistic representatives on-site to assist with questions and promotions can further enhance conversion efforts.
 
 ---
 
